@@ -1,2 +1,2 @@
 # RPS-AI-Model-Flight
-The all new rock paper scissors AI model brought to you by FLIGHT.
+The all new rock paper scissors AI model brought to you by FLIGHT. This script is currently in alpha testing, so there may be errors and bugs in the code. Please do understand that it takes time to create projects like this so we would appreciate your patience. For more information on access to the code, you can check the "LICENSE" file in the repository. If you would like to provide further feedback, you can contact us on our social platforms located on the website. Thank you and enjoy!
